@@ -1,3 +1,3 @@
 #!/bin/bash
 
-./clearlog.sh & ./LoginServerTask.sh
+./clearlog.sh && ./LoginServerTask.sh
