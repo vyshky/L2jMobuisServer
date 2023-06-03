@@ -785,7 +785,7 @@
 		<affectScope>SINGLE</affectScope>
 		<effects>
 			<effect name="ManaHeal">
-				<power>1000</power>
+				<power>500</power>
 			</effect>
 		</effects>
 	</skill>
