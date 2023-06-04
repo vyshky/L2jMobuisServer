@@ -2,7 +2,10 @@
 <list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../xsd/spawns.xsd">
 	<spawn name="22_22">
 		<group>
-			<npc id="50008" x="82837" y="148614" z="-3467" heading="17000" respawnTime="60sec" /> <!-- Rosalin buffer -->
+			<npc id="50008" x="83160" y="149351" z="-2600" heading="0" respawnTime="60sec" /> <!-- Rosalin buffer -->
+			<npc id="50008" x="83160" y="148871" z="-2600" heading="10" respawnTime="60sec" /> <!-- Rosalin buffer -->
+			<npc id="50008" x="83160" y="148423" z="-2600" heading="100" respawnTime="60sec" /> <!-- Rosalin buffer -->
+			<npc id="50008" x="83160" y="147941" z="-2600" heading="17000" respawnTime="60sec" /> <!-- Rosalin buffer -->
 		</group>
 	</spawn>
 </list>
