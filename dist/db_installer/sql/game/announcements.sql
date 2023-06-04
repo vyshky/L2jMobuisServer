@@ -11,5 +11,5 @@ CREATE TABLE IF NOT EXISTS `announcements` (
 ) ENGINE=MyISAM DEFAULT CHARSET=utf8 COLLATE=utf8_unicode_ci;
 
 INSERT INTO announcements (`type`, `author`, `content`) VALUES 
-(0, 'L2jMobius', 'Thanks for using L2jMobius!'),
-(0, 'L2jMobius', '[=http://www.l2jmobius.org/=]');
+(0, 'L2jMobius', 'Welcom to Lineage2'),
+(0, 'L2jMobius', '[=http://no_url/=]');
