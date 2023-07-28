@@ -1,3 +1,3 @@
 #! /bin/sh
 
-./GameServerTask.sh &
+./clearlog.sh && ./GameServerTask.sh &
