@@ -13,7 +13,7 @@ fi
 if [ ! -d ./runner ]; then
 	mkdir runner
 else
-#	rm -rf runner
+	rm -rf runner
 	mkdir runner
 fi
 
